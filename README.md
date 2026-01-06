@@ -12,18 +12,25 @@ PokeAxe es una aplicación web tipo Pokédex que permite listar, buscar y pagina
 - Tailwind CSS
 - JavaScript (ES6+)
 
+## 📋 Requisitos
+
+- Node.js v18 o superior
+- npm
+
 ## ⚙️ Instalación y ejecución local
 
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/CarlosMay7/PokeAxe.git
 ```
-2. Instalar dependencias necesarias:
+2. Abrir una terminal en la carpeta del proyecto
+   
+3. Instalar dependencias necesarias:
 ```bash
 npm install
 ```
 
-3. Correr el proyecto:
+4. Correr el proyecto:
 ```bash
 npm run dev
 ```
